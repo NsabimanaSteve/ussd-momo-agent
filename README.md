@@ -13,4 +13,4 @@ A USSD application for Mobile Money Agents built with PHP and MySQL.
 - AfricasTalking API
 
 ## Author
-Steve Nsabimana — Ashesi University 2026
+Steve Nsabimana: Ashesi University 2026
